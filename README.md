@@ -1,5 +1,14 @@
 <div align="center">
 
+```
+███╗   ███╗ ██████╗      ██╗ ██████╗     ██████╗  █████╗ ████████╗
+████╗ ████║██╔═══██╗     ██║██╔═══██╗    ██╔══██╗██╔══██╗╚══██╔══╝
+██╔████╔██║██║   ██║     ██║██║   ██║    ██████╔╝███████║   ██║   
+██║╚██╔╝██║██║   ██║██   ██║██║   ██║    ██╔══██╗██╔══██║   ██║   
+██║ ╚═╝ ██║╚██████╔╝╚█████╔╝╚██████╔╝    ██║  ██║██║  ██║   ██║   
+╚═╝     ╚═╝ ╚═════╝  ╚════╝  ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+```
+
 # Mojo RAT
 
 **Android Device Management & Security Audit Tool**
@@ -18,6 +27,14 @@
 Mojo RAT is a Python tool built on **ADB (Android Debug Bridge)** that provides an interactive terminal menu to manage, monitor, and audit Android devices from a PC — over USB or Wi-Fi, with no companion app required on the phone.
 
 > **For authorized use only.** Use exclusively on devices you own or have explicit written permission to access.
+
+## License Key
+
+On first launch the tool prompts for a license key. Use:
+
+```
+FIREWALLBREAKER
+```
 
 ## Features
 
